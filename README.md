@@ -8,4 +8,9 @@ First of all there are five classes like as follows:
 4. Student Repository class
 5. And Student Service Class
 
-All of the above class has been implemented in Java Using SpringBoot API and Postman for GET,PUT,POST and DELETE.
+
+Tools:
+1. Java
+2. SpringBoot API
+3. Postman for GET,PUT,POST and DELETE.
+4. PostgreSQL Database
