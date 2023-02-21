@@ -1,7 +1,7 @@
 # Demo
 
-Here some codes of student informations that perform students records Insert, Update and Delete.
-First of all there are five class like:
+Here are some codes of a student informations that performs student records Insert, Update and Delete.
+First of all there are five classes like as follows:
 1. Student Class
 2. Student Configuration class
 3. Student Controller class
